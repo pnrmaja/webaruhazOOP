@@ -43,7 +43,7 @@ A felhasználó:
 
 ## 🧾 Drótváz
 
-![Drótváz](kepek/drotvaz.jpg)
+![Drótváz](kepek/drotvaz.png)
 
 ---
 
