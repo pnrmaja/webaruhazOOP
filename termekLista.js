@@ -8,7 +8,7 @@ export const termekLista = [
         32990,
         "Női",
         "50 ml",
-        "kepek/COCO_Mademoiselle.jpg",
+        "kepek/Coco_Mademoiselle.jpg",
         "Elegáns és friss női parfüm."
     ),
     new Termek(
